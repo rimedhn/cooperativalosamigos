@@ -1,17 +1,17 @@
 // Google Apps Script para Dashboard GIM - Versión Final Corregida
 const SPREADSHEET_CONFIG = {
   capitalSocial: {
-    spreadsheetId: '1qnsW4CpcDZgzHOWT8njIdQRAeVlXow0kJ7kOj2dTUVg',
+    spreadsheetId: '1oUg81hLU532uqRXnxtAuPUK8MPxYscpj6vXoky-hjAc',
     sheetName: 'CapitalSocial'
   },
   
   repartoSocial: {
-    spreadsheetId: '1qnsW4CpcDZgzHOWT8njIdQRAeVlXow0kJ7kOj2dTUVg', 
+    spreadsheetId: '1oUg81hLU532uqRXnxtAuPUK8MPxYscpj6vXoky-hjAc', 
     sheetName: 'RepartoSocial'
   },
   
   empleados: {
-    spreadsheetId: '1nD_dfTIj2a691QV4l-8SBN6wlY_HivRPz_wR0CDBi9s',
+    spreadsheetId: '1k7gNFuK5bgaRDwp36ybKqsPAQM0pLcS9DisH9iKNEa4',
     sheetName: 'Empleados'
   }
 };
